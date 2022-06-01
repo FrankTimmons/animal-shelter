@@ -12,7 +12,7 @@
 
 ## Description
 
-This is a web page for PNW animal shelter. Animals that are currently available for adoption are listed in a card format with their picture, name, and short description.
+This is a web page for PNW animal shelter. Animals that are currently available for adoption are listed in a column with their picture, name, and short description.
 
 ## Setup/Installation Requirements
 
